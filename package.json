@@ -1,0 +1,16 @@
+{
+  "name": "sanbercode-tugas",
+  "version": "1.0.0",
+  "description": "API SanberCode",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Syarif Ridhohidayatulloh",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
